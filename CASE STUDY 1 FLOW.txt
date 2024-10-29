@@ -1,0 +1,28 @@
+1. Library Information
+	- show information about library
+	0. Back to Menu
+
+2. See Items
+	- list all items
+	1. Borrow Item (Patron)
+		- input item number to borrow
+		0. Back
+	2. Checkout Item (Staff)
+		- input Patron name and item number
+		0. Back
+	3. Return Item as Patron
+		- input item number
+	4. Return Item as Staff
+		- input patron name and item number
+	5. Check Item Details
+		- input item number to check details
+	
+
+3. See Persons
+
+0. Exit
+
+
+REMAINING:
+- LogIn System
+
